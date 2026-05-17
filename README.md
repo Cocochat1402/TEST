@@ -7,4 +7,9 @@ JE T AIME COCO
 )
 
 
-https://www.youtube.com/watch?v=o5ObAoQ-qGE
+<video src="[images/video.mp4](https://www.youtube.com/watch?v=o5ObAoQ-qGE)" width="320" height="240" controls></video>
+
+![non working video]([images/video.mp4](https://www.youtube.com/watch?v=o5ObAoQ-qGE))
+
+
+
