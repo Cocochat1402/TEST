@@ -8,4 +8,4 @@ JE T AIME COCO
 
 
 
-[![Titre de la vidéo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Titre de la vidéo](capture.jpg)](https://www.youtube.com/watch?v=qV-ijpTKWeA=VIDEO_ID)
