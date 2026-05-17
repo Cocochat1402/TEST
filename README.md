@@ -4,7 +4,7 @@
 
 JE T AIME COCO
 
-![image](assets/TEST/abc.jpg).
+![image](assets/TEST/abc.jpg)
 
 
 
